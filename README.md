@@ -26,4 +26,4 @@ Note: Create a docker container in the server, and installed python3-pip. After 
 7. Find the OMDB.tar file in the git repo and run > docker load -i OMDB.tar
 8. After it is done, we could see the file is loaded as Docker images by running CMD:  > docker images
 9. Run the container using python command: > python omdb_api.py movie_name
-10. Find the git close repository : "https://github.com/vivektiwari660/omdb_api_calling.git"
+10. Find the git close repository : "https://github.com/anilnegi/myrepos.git"
